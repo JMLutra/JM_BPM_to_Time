@@ -12,7 +12,7 @@
 --]]
 
 function Main() 
-	Echo("Not Implemented")
+	Echo("Not Implemented, You have to use it in a Macro")
 end
 
 function calcBPM(obj)
