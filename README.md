@@ -1,5 +1,5 @@
 # JM_BPM_to_Time
-
+Tested on GMA3 V2.2.5.0
 ## Usage
 Lua "beatTime(master, beats, var)"
 	
